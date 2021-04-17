@@ -1,11 +1,4 @@
-package sdlc;
-
-public class Day_2_2 {
-
-	
-	/*
-	  
-	 	SDLC => Software Development Life Cycle
+SDLC => Software Development Life Cycle
         Yazilim Gelistirme yasam dongusu
         
         
@@ -137,15 +130,3 @@ Userfriendly degildir => kullanici dostu degildir
 Waterfall mu yoksa Agile i mi tercih edersiniz?
 Ben ikisini de iyi biliyorum ve tecrubeliyim benim icin fark etmez ve iki ortamda da calisabilirim
 	 
-	  
-	 */
-	
-	
-	
-	
-	
-	
-	
-	
-	
-}

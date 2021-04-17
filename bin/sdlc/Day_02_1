@@ -1,12 +1,4 @@
-package sdlc;
-
-public class Day_2_1 {
-
-	public static void main(String[] args) {
-		
-		
-/*
-        SDLC
+ SDLC
         planning
         defining
         designing
@@ -154,8 +146,3 @@ Developer => kod yazarlar
 Testerlar => kalite kontrolu saglarlar.
 
 BA => Business ile teknik dunya arsinda kopru vazifesi gorur.
-
-*/
-	}
-
-}

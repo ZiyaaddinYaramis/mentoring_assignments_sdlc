@@ -1,12 +1,4 @@
-package sdlc;
-
-public class Day_1 {
-
-	public static void main(String[] args) {
-
-
-		/*
-		  Full Stack Automation tester 
+Full Stack Automation tester 
 		  Full Stack Developer
 		  
 		  
@@ -180,14 +172,3 @@ Dokumantasyonlarini guncellerler.
  Use Case => BRD ve FRD
  		End-user / Customer
  		deployment / release
-		 */
-		
-		
-		
-		
-		
-		
-		
-	}
-
-}

@@ -1,12 +1,4 @@
-package sdlc;
-
-public class Day_3AgileMethodology {
-
-	public static void main(String[] args) {
-
-
-		/*
-		 * Waterfall method
+Waterfall method
 		 * 
             Agile method
             
@@ -62,9 +54,3 @@ her hangi bir impediment varmiydi?
         
         SDLC => Software Development Life Cycle
         STLC => Software Testing Life cycle
-
-		 */
-
-	}
-
-}
